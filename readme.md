@@ -1,3 +1,3 @@
-### This is a game which I did with [Course by Frank's Laboratory] ('https://www.youtube.com/c/Frankslaboratory')
+### This is a game which I did with [Course by Frank's Laboratory](https://www.youtube.com/c/Frankslaboratory)
 
-![image]()
+![image]('https://github.com/masiuk-mykola/Point-shoot-game/blob/main/img.png?raw=true')
